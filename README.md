@@ -32,3 +32,4 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ---
 
 Happy note-taking on Candle Note! 🕯️📝
+
